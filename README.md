@@ -5,7 +5,10 @@ Hello this is git tutorial 2
 
 
 
-Hello this is next commit
+Helo this  next commit
 
 
-This is the 3rd commit
+This is theeeeeee 3rd commit
+
+This is featue branch
+
